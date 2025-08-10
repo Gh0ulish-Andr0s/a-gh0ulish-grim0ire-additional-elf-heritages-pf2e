@@ -1,6 +1,6 @@
-<b><i>A Gh0ulish Grim0ire</i></b>
+<p style="margin:0:"><b><i>A Gh0ulish Grim0ire</i></b></p>
 <p></p>
-<b>Additional Elf Heritages</b>
+<p style="margin:0:"><b>Additional Elf Heritages</b></p>
 <p></p>
 <i>a Foundry VTT module for Pathfinder 2e</i>
 <p></p>
