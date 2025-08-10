@@ -10,4 +10,4 @@ If you are a fan of the concept of elves capable of living on the periphery of c
 <p>I plan on making another pass at the Rules Elements attached to some of the heritages (e.g. Sky Elf). Be on the look out for a version 1.1.0 if changes are made.</p>
 <p></p>
 <b>Expected Updates</b>
-<p>Barring the above mentioned, unless there is a drastic change in how the Pathfinder 2e system handles the rules, there should not be a need to make regular updates to the module. Future updates may also occur in response to player/GM feedback or in the event of Paizo releasing official versions of this same content, I may decide to archive my version.</p>
+<p>Barring the above mentioned, unless there is a drastic change in how the Pathfinder 2e system handles the rules, there should not be a need to make regular updates to the module. Future updates may also occur in response to player/GM feedback. Also, in the event of Paizo releasing official versions of this same content, I may decide to archive my version.</p>
