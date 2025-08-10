@@ -1,0 +1,17 @@
+A Gh0ulish Grim0ire
+Pathfinder Second Edition
+Additional Elf Heritages [PF2e]
+
+Release Notes and Change Log
+
+Version Number: 1.0.1
+Release Date: 2025-08-10
+	- Migrated repository to Github.
+	- Made additions to build out, and revisions to fix errors in, the manifest document.
+	- Removed extra and erroneous packs.
+	- Formatted attribution notice text file to be more readable.
+	- Updated attribution notice to reflect official publication year of module.
+
+Version Number: 1.0.0
+Release Date: 2025-08-09
+	- Initial release.
