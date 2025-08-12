@@ -12,8 +12,8 @@
   ],
   "url": "https://github.com/Gh0ulish-Andr0s/a-gh0ulish-grim0ire-additional-elf-heritages-pf2e",
   "manifest": "https://raw.githubusercontent.com/Gh0ulish-Andr0s/a-gh0ulish-grim0ire-additional-elf-heritages-pf2e/refs/heads/main/module.json",
-  "download": "https://github.com/Gh0ulish-Andr0s/a-gh0ulish-grim0ire-additional-elf-heritages-pf2e/archive/refs/heads/main.zip",
-  "version": "1.0.1",
+  "download": "https://github.com/Gh0ulish-Andr0s/a-gh0ulish-grim0ire-additional-elf-heritages-pf2e/archive/refs/tags/v1.0.2.zip",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -31,20 +31,12 @@
     {
       "name": "Gh0ulish Additional Elf Heritages",
       "sorting": "m",
-      "folders": [
-        {
-          "name": "Additional Elf Heritages",
-          "sorting": "m",
-          "packs": [
-            "heritages",
-            "feats"
-          ],
-          "color": null,
-          "folders": []
-        }
-      ],
       "color": null,
-      "packs": []
+	  "packs": [
+	    "heritages",
+	    "feats"
+		],
+      "folders": []
     }
   ],
   "packs": [

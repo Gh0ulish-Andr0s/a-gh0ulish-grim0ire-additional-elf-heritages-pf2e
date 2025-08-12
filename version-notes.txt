@@ -4,6 +4,10 @@ Additional Elf Heritages [PF2e]
 
 Release Notes and Change Log
 
+Version Number: 1.0.2
+Release Date: 2025-08-12
+	- Flattened compendium folder structure.
+
 Version Number: 1.0.1
 Release Date: 2025-08-10
 	- Migrated repository to Github.
@@ -15,3 +19,8 @@ Release Date: 2025-08-10
 Version Number: 1.0.0
 Release Date: 2025-08-09
 	- Initial release.
+
+Version Numbers defined by "Major.Minor.Patch" where:
+	Major reflects the additional or removal of a heritage.
+	Minor reflects change to an existing heritage or the additional, revision, or removal of a feat.
+	Patch reflects some other minor change in the compendium contents.
